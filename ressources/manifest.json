@@ -1,0 +1,19 @@
+{
+  "manifest": [
+    {"id": "police", "src": "ressources/polices/FightingSpirit2.ttf", "type":  "font"},
+
+    {"id":  "queue", "src": "ressources/images/queue.png"},
+    {"id": "bg", "src": "ressources/images/bgSamKir.png"},
+    {"id": "titleScreen", "src": "ressources/images/titleScreen.png"},
+
+    {"id": "players", "src": "ressources/atlas/players.json", "type": "spritesheet"},
+    {"id": "ui", "src": "ressources/atlas/ui.json", "type": "spritesheet"},
+    {"id": "vicScreen", "src": "ressources/atlas/victory.json", "type": "spritesheet"},
+
+    {"id": "bgm", "src": "ressources/sons/bg.mp3", "type":  "sound"},
+    {"id": "hit", "src": "ressources/sons/hit.wav", "type":  "sound"},
+    {"id": "alert", "src": "ressources/sons/queue.mp3", "type":  "sound"},
+    {"id": "ambiance", "src": "ressources/sons/ambiance.mp3", "type":  "sound"},
+    {"id": "fin", "src": "ressources/sons/fin.mp3", "type":  "sound"}
+  ]
+}

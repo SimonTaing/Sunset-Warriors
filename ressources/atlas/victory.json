@@ -1,0 +1,33 @@
+{
+
+"images": [
+    "ressources/atlas/victory.png"
+],
+
+"framerate": 30,
+"frames": [
+    [1, 1, 320, 200, 0, 0, 0],
+    [1, 1, 320, 200, 0, 0, 0],
+    [1, 203, 320, 200, 0, 0, 0],
+    [323, 1, 320, 200, 0, 0, 0],
+    [323, 203, 320, 200, 0, 0, 0],
+    [645, 1, 320, 200, 0, 0, 0],
+    [645, 203, 320, 200, 0, 0, 0],
+    [967, 1, 320, 200, 0, 0, 0],
+    [967, 203, 320, 200, 0, 0, 0],
+    [1289, 1, 320, 200, 0, 0, 0],
+    [1289, 203, 320, 200, 0, 0, 0],
+    [1611, 1, 320, 200, 0, 0, 0]
+],
+
+"animations": {
+    "VicP1": { "frames": [0, 2, 3, 4, 5, 6], "next": false},
+    "VicP2": { "frames": [1, 7, 8, 9, 10, 11], "next": false}
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:ea1a0a47ab06f778503c3b75680a3abc:f6073c59c5318143c70721523a932f78:e4828f4b2c654ddf8de306977b616534$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

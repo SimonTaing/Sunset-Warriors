@@ -1,0 +1,46 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;              /* Enlèvement de la marge par défaut */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+canvas {
+  display: block;
+}
+
+@font-face {
+  font-family: 'Fighting Spirit 2';
+  src: url(../ressources/polices/FightingSpirit2.ttf);
+}
+
+#fenetre {
+  display: none;
+  position: absolute;
+  margin: 0 auto;
+  background-color: #2e1203;
+  padding: 30px;
+  border: 3px #8a4722 solid;
+  font: 36px 'Fighting Spirit 2', sans-serif;
+  color: #8a4722;
+  /*display: none;*/
+}
+
+#fenetre input {
+  width: 100%;
+  font: 36px 'Fighting Spirit 2', sans-serif;
+  display: block;
+  margin-bottom: 30px;
+}
+
+button {
+  background-color: #8a4722;
+  font: 36px 'Fighting Spirit 2', sans-serif;
+  border: none;
+  width: 50%;
+  cursor: pointer;
+}

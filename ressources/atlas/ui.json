@@ -1,0 +1,25 @@
+{
+
+"images": [
+    "ressources/atlas/ui.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 32, 32, 0, 0, 0],
+    [1, 35, 32, 32, 0, 0, 0],
+    [1, 69, 32, 32, 0, 0, 0]
+],
+
+"animations": {
+    "none": { "frames": [0] },
+    "p1": { "frames": [1] },
+    "p2": { "frames": [2] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:29a8c62b69f74fc4834ab6f94e8799c2:368140182622fefcb9f7dfc69ed437cd:5b04aa198265472a3c5f56958d78e97b$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

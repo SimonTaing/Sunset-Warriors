@@ -1,0 +1,8 @@
+{
+  "name": "Sunset Warriors",
+  "main": "index.html",
+  "window":{
+    "width": 1280,
+    "height": 800
+  }
+}
